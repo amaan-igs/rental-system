@@ -14,11 +14,7 @@ Defines rental rates for different car types. Declares the RentalRecord structur
 Each source file handles specific tasks, making the code easier to manage and understand. Compilation and Execution To compile and run the program:
 
 Compile the Program: Use this command to compile all the source files into an executable named car_rental_system:
-
-gcc main.c welcome.c customer_info.c car_selection.c rent_dates.c receipt.c -o car_rental_system Run the Program: Run the compiled program using this command:
-
-./car_rental_system
-
+gcc -I header_f src/*.c -o car_rental_system
 Usage
 
 Run the program to see a welcome message.
