@@ -1,4 +1,6 @@
 # rental-system
+
+
 Overview The Car Rental System is a simple command-line program written in C. It allows users to rent cars by selecting car types, models, and colors, and calculates the rental cost based on the number of days the car is rented. The code is split into multiple files to keep it organized and easy to manage.
 
 Project Structure The project is divided into several files:
