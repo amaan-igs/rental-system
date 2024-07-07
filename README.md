@@ -1,4 +1,6 @@
 # rental-system
+![image](https://github.com/amaan-igs/rental-system/assets/172314900/23c19a85-8be1-4117-b72c-8b1a7128f9a0)
+
 
 Overview The Car Rental System is a simple command-line program written in C. It allows users to rent cars by selecting car types, models, and colors, and calculates the rental cost based on the number of days the car is rented. The code is split into multiple files to keep it organized and easy to manage.
 
@@ -26,5 +28,3 @@ Choose a specific car model.
 Select the car color.
 Enter the rental start and end dates.
 The program will display a receipt with all the details and the total cost.
-
-![image](https://github.com/amaan-igs/rental-system/assets/172314900/ab299b21-6819-4dee-ae2b-a24c01bdb8e9)
