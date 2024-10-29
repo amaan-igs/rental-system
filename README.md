@@ -22,7 +22,7 @@ Compile the Program: Use this command to compile all the source files into an ex
 Preview
 
 ![Screenshot 2024-10-29 204451](https://github.com/user-attachments/assets/15c7c01b-d745-44be-b09c-233145926f14)
-![Screenshot 2024-10-29 204426](https://github.com/user-attachments/assets/446d607a-2340-46d7-a619-540cf4212ee0)
+![Screenshot 2024-10-29 204539](https://github.com/user-attachments/assets/ee744c37-3edf-4cf3-8281-5da3471cd622)
 
 Usage
 
