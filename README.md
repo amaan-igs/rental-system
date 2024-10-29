@@ -19,6 +19,11 @@ Each source file handles specific tasks, making the code easier to manage and un
 Compile the Program: Use this command to compile all the source files into an executable named car_rental_system:
 - gcc -I header_f src/*.c -o car_rental_system
 
+Preview
+
+![Screenshot 2024-10-29 204451](https://github.com/user-attachments/assets/15c7c01b-d745-44be-b09c-233145926f14)
+![Screenshot 2024-10-29 204426](https://github.com/user-attachments/assets/446d607a-2340-46d7-a619-540cf4212ee0)
+
 Usage
 
 Run the program to see a welcome message.
